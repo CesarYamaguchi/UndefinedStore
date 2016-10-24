@@ -1,0 +1,26 @@
+  REQUISITOS FUNCIONALES
+
+•	Registro de artículos
+•	Registro de usuarios
+•	Registro de categorías
+•	Modificar categorías
+•	Modificar articulo
+•	Modificar usuario
+•	Eliminar articulo
+•	Eliminar usuario
+•	Eliminar categorías
+•	Catálogo  de artículos
+•	Artículos más populares
+•	Manu de categorías de artículos
+•	Log-in usuario
+•	Log-in administrador
+•	Gestión de categorías por producto
+•	Importar artículos desde un archivo .CSV
+•	Mostrar la descripción, precio y comentarios de cada artículo en una página independiente.
+•	Agregar imágenes a artículos o categorías.
+•	Hacer comentarios al producto cuando el usuario este activo.
+•	Calificar al producto después de que el usuario haiga comprado el producto.
+•	El administrador debe poder eliminar comentarios no aptos.
+•	El usuario puede solicitar que eliminen un comentario de alguien más que sea ofensivo.
+•	Agregar productos al carrito.
+•	Realizar compra.
